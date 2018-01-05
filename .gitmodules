@@ -1,0 +1,6 @@
+[submodule "ai-safety-gridworlds"]
+        path = ai-safety-gridworlds
+        url = https://github.com/deepmind/ai-safety-gridworlds.git
+[submodule "ai-safety-gridworlds-viewer"]
+        path = ai-safety-gridworlds-viewer
+        url = https://github.com/n0p2/ai-safety-gridworlds-viewer.git
